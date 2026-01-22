@@ -2,7 +2,7 @@
 
 ### Full Stack Developer | Java | Spring Boot | React | Node.js | AWS
 
-🚀 Building scalable, high-performance web applications with ~2 years of experience
+🚀 Building scalable, high-performance web applications with 2 years of experience
 
 ## 💼 About Me
 
