@@ -132,7 +132,7 @@ Dr. M.G.R University, Chennai, India
 
 ## 🎯 Current Focus
 
-- 💻 Preparing for technical interviews at **top tech companies** (PayPal, etc.)
+- 💻 Preparing for technical interviews at **top tech companies**
 - 📚 Studying **System Design** and **Distributed Systems**
 - 🏗️ Building scalable **microservices architectures**
 - ☁️ Deepening expertise in **AWS** services and **cloud-native solutions**
