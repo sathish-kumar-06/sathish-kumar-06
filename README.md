@@ -30,7 +30,7 @@ Full Stack Developer with approximately 2 years of experience specializing in bu
 - 📦 Created APIs for vendor updates and logged trace data in **PostgreSQL and AWS S3** for performance analysis
 
 ### Software Developer @ Proflaut Technology
-**December 2023 - August 2024**
+**December 2023 - May 2024**
 
 - 🛠️ Built and maintained scalable back-end systems with **Java (Spring Boot)** and integrated REST APIs
 - ✅ Conducted API testing with **Postman** and maintained bug-free code using **SonarQube**
